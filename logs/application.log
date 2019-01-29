@@ -1,0 +1,14 @@
+2019-01-29 13:40:31,336 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2019-01-29 13:40:31,421 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
+2019-01-29 13:40:31,734 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-01-29 13:40:32,233 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-5 - Cookie failed message authentication check
+2019-01-29 13:40:32,233 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
+2019-01-29 13:40:32,233 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-01-29 13:40:32,233 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-01-29 13:40:32,237 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-01-29 13:40:32,240 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
